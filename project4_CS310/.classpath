@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="CS310_p4_Fall19-master/001-krimal-p4"/>
+	<classpathentry kind="lib" path="CS310_p4_Fall19-master/001-krimal-p4/310libs.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

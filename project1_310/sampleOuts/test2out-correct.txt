@@ -1,0 +1,6 @@
+Goblin says "Guess a letter": Goblin says "No dice! 1 wrong guesses left..."
+Goblin says "Guess a letter": Goblin says "You already guessed: l
+Guess a new letter": Goblin says "Yeah, yeah, it's like this: p-----"
+Goblin says "Guess a letter": Goblin says "No dice! 0 wrong guesses left..."
+Goblin says "I win! I was thinking of the word 'packet'
+Your stuff is all mine... I'll come back for more soon!"
